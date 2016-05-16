@@ -224,7 +224,7 @@ this in github, let download it into our project.
 
 .. code-block:: bash
 
-   wget https://gist.githubusercontent.com/kagesenshi/2c53e855e776472723f4/raw/59ce71b7c6dbc027a5abfa4d9cba68bb9d58b801/epiweek.py \
+   wget https://gist.githubusercontent.com/kagesenshi/2c53e855e776472723f4/raw/80ada0b119a9f33943fe5e800ab64601be724ee4/epiweek.py \
         -O src/example/dengueviz/epiweek.py
 
 Edit ``src/example/dengueviz/views.py`` and add these lines:
